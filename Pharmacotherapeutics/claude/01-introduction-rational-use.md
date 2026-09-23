@@ -113,7 +113,7 @@ Randomization minimizes selection bias and confounding, allowing a more confiden
 - Useful for training and supervision of health workers
 - Cost containment for patients & health system
 
-**STG development process (brief):** situation analysis → selection of priority diseases → evidence review → drafting by expert panel → peer review/field testing → dissemination → periodic revision.
+**STG development process (brief):** situation analysis → selection of priority diseases → evidence review → drafting by expert panel → peer review/field testing → dissemination/Broadcasting → periodic revision.
 
 ---
 
